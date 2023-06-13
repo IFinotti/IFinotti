@@ -8,19 +8,14 @@ Coloque aqui uma breve descrição sobre você e seus interesses. Fale sobre sua
 
 Conecte-se comigo nas seguintes redes sociais:
 
-- [LinkedIn](https://www.linkedin.com/seu-perfil)
-- [Twitter](https://www.twitter.com/seu-perfil)
-- [GitHub](https://github.com/seu-perfil)
+- [LinkedIn](www.linkedin.com/in/isaac-finotti)
+- [Instagram](https://www.instagram.com/isaac_finotti/)
 
 ## Linguagens Mais Usadas
 
 Aqui estão algumas das linguagens de programação que mais utilizo:
 
-1. Linguagem 1
-2. Linguagem 2
-3. Linguagem 3
-4. Linguagem 4
-5. Linguagem 5
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFinotti)](https://github.com/IFinotti/github-readme-stats)
 
 ## Contribuição
 
@@ -28,8 +23,6 @@ Se você está interessado(a) em colaborar com meus projetos, fique à vontade p
 
 ## Contato
 
-Caso queira entrar em contato comigo, você pode enviar um e-mail para [imisaac2807@gmail.com](mailto:seu-email@gmail.com).
+Caso queira entrar em contato comigo, você pode enviar um e-mail para [imisaac2807@gmail.com](mailto:imisaac2807@gmail.com).
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFinotti)](https://github.com/IFinotti/github-readme-stats)
 ![IFinotti Status](https://github-readme-stats.vercel.app/api?username=IFinotti&show_icons=true)
