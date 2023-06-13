@@ -24,5 +24,3 @@ Se você está interessado(a) em colaborar com meus projetos, fique à vontade p
 ## Contato
 
 Caso queira entrar em contato comigo, você pode enviar um e-mail para [imisaac2807@gmail.com](mailto:imisaac2807@gmail.com).
-
-![IFinotti Status](https://github-readme-stats.vercel.app/api?username=IFinotti&show_icons=true)
