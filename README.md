@@ -4,7 +4,7 @@
 
 Conecte-se comigo nas seguintes redes sociais:
 
-- [LinkedIn](www.linkedin.com/in/isaac-finotti)
+- [LinkedIn](https://www.linkedin.com/in/isaac-finotti/)
 - [Instagram](https://www.instagram.com/isaac_finotti/)
 
 ## Linguagens Mais Usadas
