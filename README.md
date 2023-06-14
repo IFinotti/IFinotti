@@ -1,9 +1,5 @@
 # Bem-vindo(a) ao meu perfil! 👋
 
-## Sobre mim
-
-Tenho pouca experiência na área de programação, mas sempre tive ambição de a cada dia aprender um pouco sobre tudo e ser um dos melhores no que faço.
-
 ## Minhas Redes Sociais
 
 Conecte-se comigo nas seguintes redes sociais:
