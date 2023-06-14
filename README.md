@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Coloque aqui uma breve descrição sobre você e seus interesses. Fale sobre sua experiência na área de programação, projetos em que trabalhou e qualquer outro detalhe que deseje compartilhar.
+Tenho pouca experiência na área de programação, mas sempre tive ambição de a cada dia aprender um pouco sobre tudo e ser um dos melhores no que faço.
 
 ## Minhas Redes Sociais
 
