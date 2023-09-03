@@ -1,26 +1,22 @@
-# Bem-vindo(a) ao meu perfil! 👋
+# Welcome to my profile! 👋
 
-## Minhas Redes Sociais
+## My social media
 
-Conecte-se comigo nas seguintes redes sociais:
+Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/isaac-finotti/)
 - [Instagram](https://www.instagram.com/isaac_finotti/)
 
-## Linguagens Mais Usadas
+## More used languages
 
-Aqui estão algumas das linguagens de programação que mais utilizo:
+Here is some programming languages that I use most:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFinotti)](https://github.com/IFinotti/github-readme-stats)
 
-E minhas atividades no GitHub:
+And my GitHub activities:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFinotti&hide=contribs,prs)
 
-## Contribuição
+## Contact
 
-Se você está interessado(a) em colaborar com meus projetos, fique à vontade para abrir issues e enviar pull requests. Sua contribuição é muito bem-vinda!
-
-## Contato
-
-Caso queira entrar em contato comigo, você pode enviar um e-mail para [imisaac2807@gmail.com](mailto:imisaac2807@gmail.com).
+In case you want to make contact with me, you can send an e-mail to [imisaac2807@gmail.com](mailto:imisaac2807@gmail.com).
