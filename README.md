@@ -13,6 +13,10 @@ Aqui estão algumas das linguagens de programação que mais utilizo:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFinotti)](https://github.com/IFinotti/github-readme-stats)
 
+E minhas atividades no GitHub:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ## Contribuição
 
 Se você está interessado(a) em colaborar com meus projetos, fique à vontade para abrir issues e enviar pull requests. Sua contribuição é muito bem-vinda!
