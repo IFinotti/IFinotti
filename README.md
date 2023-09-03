@@ -15,7 +15,7 @@ Aqui estão algumas das linguagens de programação que mais utilizo:
 
 E minhas atividades no GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFinotti&hide=contribs,prs)
 
 ## Contribuição
 
